@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Zankyosanka",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-02T13:22:52.313400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zankyosanka (TV version)",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/01_Zankyosanka_(TV_version)_Aimer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zankyosanka -TV version-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_Zankyosanka_-TV_version-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "残響散歌 - Zankyosanka",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_残響散歌_-_Zankyosanka_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zankyosanka -TV ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Zankyosanka_-TV_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zankyosanka (From \"Demon Slayer\")",
+      "artist": "Silver Storm",
+      "has_synced": true,
+      "path": "select/05_Zankyosanka_(From__Demon_Slayer_)_Silver_Storm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "残響散歌 / Zankyosanka",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_残響散歌___Zankyosanka_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zankyosanka - From THE FIRST TAKE",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_Zankyosanka_-_From_THE_FIRST_TAKE_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zankyosanka",
+      "artist": "Migmusic",
+      "has_synced": false,
+      "path": "select/08_Zankyosanka_Migmusic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "zankyosanka  from the first take",
+      "artist": "aimer",
+      "has_synced": true,
+      "path": "select/09_zankyosanka_from_the_first_take_aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zankyosanka",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_Zankyosanka_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zankyosanka",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_Zankyosanka_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zankyosanka 残響散歌",
+      "artist": "Ilonka Obilinovic",
+      "has_synced": true,
+      "path": "select/12_Zankyosanka_残響散歌_Ilonka_Obilinovic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Zankyosanka",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Zankyosanka_Aimer.txt"
+    }
+  ]
+}
