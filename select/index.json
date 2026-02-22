@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "残響散歌 - Zankyosanka",
+  "base_track": "残響散歌",
   "base_artist": "Aimer",
-  "createdAt": "2026-02-20T01:16:40.309574Z",
+  "createdAt": "2026-02-22T17:21:41.724248Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,10 +15,10 @@
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "残響散歌",
+      "title": "残響散歌 - From THE FIRST TAKE",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/02_残響散歌_Aimer.lrc"
+      "path": "select/02_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
     },
     {
       "id": "lrclib_3",
@@ -47,18 +47,18 @@
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "残響散歌 - Zankyosanka",
+      "title": "残響散歌 - From THE FIRST TAKE",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/06_残響散歌_-_Zankyosanka_Aimer.lrc"
+      "path": "select/06_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "残響散歌",
+      "title": "残響散歌 -TV ver.-",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/07_残響散歌_Aimer.lrc"
+      "path": "select/07_残響散歌_-TV_ver.-_Aimer.lrc"
     },
     {
       "id": "lrclib_8",
@@ -71,34 +71,34 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "残響散歌 - From THE FIRST TAKE",
+      "title": "残響散歌 - Zankyosanka",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/09_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
+      "path": "select/09_残響散歌_-_Zankyosanka_Aimer.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "残響散歌 - From THE FIRST TAKE",
+      "title": "残響散歌",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/10_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
+      "path": "select/10_残響散歌_Aimer.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "残響散歌 -TV ver.-",
+      "title": "残響散歌 - From THE FIRST TAKE",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/11_残響散歌_-TV_ver.-_Aimer.lrc"
+      "path": "select/11_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "残響散歌 - From THE FIRST TAKE",
+      "title": "残響散歌",
       "artist": "Aimer",
       "has_synced": true,
-      "path": "select/12_残響散歌_-_From_THE_FIRST_TAKE_Aimer.lrc"
+      "path": "select/12_残響散歌_Aimer.lrc"
     },
     {
       "id": "petitlyrics_1",
